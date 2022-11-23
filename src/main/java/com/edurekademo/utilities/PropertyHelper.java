@@ -88,7 +88,7 @@ public static String getProperty(String propertyName,String strDefault){
  * A convenience method (aliasing getProperty) 
  * @param propertyName property to be retrieved. 
  * @return
- * @see getProperty
+ * @see getProperty.
  */
 public static String get(String propertyName){
 	return getProperty(propertyName); 
